@@ -2,7 +2,7 @@
 
 <div align="center">
 
-> Contribute to the ENS Decentralized by helping to launch a backend node that automatically pin and backup the files the users add to their ENS name
+> Contribute to the Decentralization of IPFS Network by helping to launch a backend node that automatically pin and backup the files the users add to their ENS name
 
 *This is a hackathon project for ETHGlobal Taipei tackling the bounty track offered by ENS (Etherenum Name Service)*
 
