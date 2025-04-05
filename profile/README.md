@@ -35,7 +35,6 @@ ENSPin empowers the ENS ecosystem with reliable and decentralized content persis
 | 🔗 **ENS-Linked Pinning** | Automatically detects new IPFS links in ENS names and pins them |
 | 💡 **Plug-and-Play Infra** | Anyone can deploy the backend node to contribute to the decentralized pinning network |
 | 🛡️ **Data Redundancy** | Multiple nodes can independently pin and verify the same files |
-| 🧠 **Smart Prioritization** | Future versions may allow prioritizing based on user reputation or DAO voting |
 | 🚀 **Zero Effort for Users** | Users just use ENS as usual — no extra steps to protect their data |
 
 ## Motivation
