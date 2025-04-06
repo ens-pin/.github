@@ -40,9 +40,15 @@ ENSPin empowers the ENS ecosystem with reliable and decentralized content persis
 ## Motivation
 **ENS PIN** solves this by auto-pinning ENS-linked content, helping ensure data stays available — reinforcing ENS as a reliable identity layer for Web3.
 
+## Overview Flow
+![e9691343-49f2-4bd1-b0a4-9f777af64106](https://github.com/user-attachments/assets/67888e14-fec5-418f-89c9-cced61623511)
+
+
 ## Repositories📁
 - **Backend Service**: [`ens-pin-backend`](https://github.com/ens-pin/ens-index-ipfs-service) – monitors ENS names, pins IPFS content, and maintains pin status.
 - **Frontend Dashboard**: [`ens-pin-frontend`](https://github.com/ens-pin/control-dashboard) – visualizes pin status for ENS names.
+- **Pitch Deck Link**:[`ens-pitchdeck`](https://pitch.com/v/enspin-sfkiip)
+- **ENSPin website**: [`ens-website`](https://enspin.vercel.app/)
 
 ## Contribution🤝
 We welcome contributors who want to help decentralize data storage for ENS!
